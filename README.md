@@ -1,4 +1,4 @@
-# phone
+# blog
 
 ## Project setup
 ```
